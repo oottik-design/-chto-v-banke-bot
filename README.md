@@ -1,1 +1,1 @@
-# -chto-v-banke-bot
+# chto-v-banke-bot
